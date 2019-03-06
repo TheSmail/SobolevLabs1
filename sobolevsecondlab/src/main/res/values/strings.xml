@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SobolevSecondLab</string>
+    <string name="Вкл">vkl</string>
+    <string name="Выкл">Vykl</string>
+    <string name="on">Вкл</string>
+    <string name="off">Выкл</string>
+</resources>
