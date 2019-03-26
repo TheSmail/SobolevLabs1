@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                sendMessage2(v);
+                sendMessage(v); //3 задание sendMessage, 4 задание sendMessage2!
             }
         });
     }
